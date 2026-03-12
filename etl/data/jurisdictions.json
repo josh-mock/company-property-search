@@ -1,0 +1,998 @@
+{
+    "jurisdictions": [
+        {
+            "official_term": "ABU DHABI, UNITED ARAB EMIRATES",
+            "variations": [
+                "ABU DHABI"
+            ]
+        },
+        {
+            "official_term": "AFGHANISTAN"
+        },
+        {
+            "official_term": "AJMAN, UNITED ARAB EMIRATES",
+            "variations": [
+                "AJMAN"
+            ]
+        },
+        {
+            "official_term": "AJMAN FREE ZONE, UNITED ARAB EMIRATES",
+            "variations": [
+                "AJMAN FREE ZONE"
+            ]
+        },
+        {
+            "official_term": "ALASKA, UNITED STATES",
+            "variations": [
+                "ALASKA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "ALBANIA"
+        },
+        {
+            "official_term": "ALBERTA, CANADA"
+        },
+        {
+            "official_term": "ALDERNEY"
+        },
+        {
+            "official_term": "ALGERIA"
+        },
+        {
+            "official_term": "ANDORRA"
+        },
+        {
+            "official_term": "ANGOLA"
+        },
+        {
+            "official_term": "ANGUILLA"
+        },
+        {
+            "official_term": "ANTIGUA AND BARBUDA"
+        },
+        {
+            "official_term": "ARGENTINA"
+        },
+        {
+            "official_term": "ARIZONA, UNITED STATES",
+            "variations": [
+                "ARIZONA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "ARMENIA"
+        },
+        {
+            "official_term": "AUSTRALIA"
+        },
+        {
+            "official_term": "AUSTRIA"
+        },
+        {
+            "official_term": "AZERBAIJAN"
+        },
+        {
+            "official_term": "BAHRAIN"
+        },
+        {
+            "official_term": "BANGLADESH"
+        },
+        {
+            "official_term": "BARBADOS"
+        },
+        {
+            "official_term": "BELARUS"
+        },
+        {
+            "official_term": "BELGIUM"
+        },
+        {
+            "official_term": "BELIZE"
+        },
+        {
+            "official_term": "BENIN"
+        },
+        {
+            "official_term": "BERMUDA"
+        },
+        {
+            "official_term": "BHUTAN"
+        },
+        {
+            "official_term": "BOLIVIA"
+        },
+        {
+            "official_term": "BOSNIA AND HERZEGOVINA"
+        },
+        {
+            "official_term": "BOTSWANA"
+        },
+        {
+            "official_term": "BRAZIL"
+        },
+        {
+            "official_term": "BRITISH COLUMBIA, CANADA"
+        },
+        {
+            "official_term": "BRITISH VIRGIN ISLANDS",
+            "variations": [
+                "THE VIRGIN ISLANDS"
+            ]
+        },
+        {
+            "official_term": "BRUNEI"
+        },
+        {
+            "official_term": "BULGARIA"
+        },
+        {
+            "official_term": "BURKINA FASO"
+        },
+        {
+            "official_term": "BURUNDI"
+        },
+        {
+            "official_term": "CALIFORNIA, UNITED STATES",
+            "variations": [
+                "CALIFORNIA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "CAMBODIA"
+        },
+        {
+            "official_term": "CAMEROON"
+        },
+        {
+            "official_term": "CANADA"
+        },
+        {
+            "official_term": "CAPE VERDE"
+        },
+        {
+            "official_term": "CAYMAN ISLANDS"
+        },
+        {
+            "official_term": "CENTRAL AFRICAN REPUBLIC"
+        },
+        {
+            "official_term": "CHAD"
+        },
+        {
+            "official_term": "CHILE"
+        },
+        {
+            "official_term": "CHINA"
+        },
+        {
+            "official_term": "COLOMBIA"
+        },
+        {
+            "official_term": "COLORADO, UNITED STATES",
+            "variations": [
+                "COLORADO, U.S.A."
+            ]
+        },
+        {
+            "official_term": "COMOROS"
+        },
+        {
+            "official_term": "CONNECTICUT, UNITED STATES",
+            "variations": [
+                "CONNECTICUT, U.S.A."
+            ]
+        },
+        {
+            "official_term": "CONGO"
+        },
+        {
+            "official_term": "COOK ISLANDS"
+        },
+        {
+            "official_term": "COSTA RICA"
+        },
+        {
+            "official_term": "CROATIA"
+        },
+        {
+            "official_term": "CUBA"
+        },
+        {
+            "official_term": "CURACAO"
+        },
+        {
+            "official_term": "CYPRUS"
+        },
+        {
+            "official_term": "CZECHIA",
+            "variations": [
+                "CZECH REPUBLIC"
+            ]
+        },
+        {
+            "official_term": "DELAWARE, UNITED STATES",
+            "variations": [
+                "DELAWARE, U.S.A."
+            ]
+        },
+        {
+            "official_term": "DEMOCRATIC REPUBLIC OF THE CONGO"
+        },
+        {
+            "official_term": "DENMARK"
+        },
+        {
+            "official_term": "DJIBOUTI"
+        },
+        {
+            "official_term": "DOMINICA"
+        },
+        {
+            "official_term": "DOMINICAN REPUBLIC"
+        },
+        {
+            "official_term": "DUBAI, UNITED ARAB EMIRATES",
+            "variations": [
+                "DUBAI"
+            ]
+        },
+        {
+            "official_term": "EAST TIMOR"
+        },
+        {
+            "official_term": "ECUADOR"
+        },
+        {
+            "official_term": "EGYPT"
+        },
+        {
+            "official_term": "EL SALVADOR"
+        },
+        {
+            "official_term": "EQUATORIAL GUINEA"
+        },
+        {
+            "official_term": "ERITREA"
+        },
+        {
+            "official_term": "ESTONIA"
+        },
+        {
+            "official_term": "ESWATINI",
+            "variations": [
+                "SWAZILAND"
+            ]
+        },
+        {
+            "official_term": "ETHIOPIA"
+        },
+        {
+            "official_term": "FAROE ISLANDS"
+        },
+        {
+            "official_term": "FEDERATED STATES OF MICRONESIA"
+        },
+        {
+            "official_term": "FIJI"
+        },
+        {
+            "official_term": "FINLAND"
+        },
+        {
+            "official_term": "FLORIDA, USA",
+            "variations": [
+                "FLORIDA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "FRANCE"
+        },
+        {
+            "official_term": "FUJAIRAH, UNITED ARAB EMIRATES",
+            "variations": [
+                "FUJAIRAH"
+            ]
+        },
+        {
+            "official_term": "GABON"
+        },
+        {
+            "official_term": "GEORGIA"
+        },
+        {
+            "official_term": "GEORGIA, UNITED STATES",
+            "variations": [
+                "GEORGIA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "GERMANY",
+            "variations": [
+                "HAMBURG"
+            ]
+        },
+        {
+            "official_term": "GHANA"
+        },
+        {
+            "official_term": "GIBRALTAR"
+        },
+        {
+            "official_term": "GREECE"
+        },
+        {
+            "official_term": "GRENADA"
+        },
+        {
+            "official_term": "GRISONS, SWITZERLAND",
+            "variations": [
+                "ROVEREDO GR"
+            ]
+        },
+        {
+            "official_term": "GUATEMALA"
+        },
+        {
+            "official_term": "GUERNSEY"
+        },
+        {
+            "official_term": "GUINEA"
+        },
+        {
+            "official_term": "GUINEA-BISSAU"
+        },
+        {
+            "official_term": "GUYANA"
+        },
+        {
+            "official_term": "HAITI"
+        },
+        {
+            "official_term": "HAWAII, UNITED STATES",
+            "variations": [
+                "HAWAII, U.S.A."
+            ]
+        },
+        {
+            "official_term": "HONDURAS"
+        },
+        {
+            "official_term": "HONG KONG"
+        },
+        {
+            "official_term": "HUNGARY"
+        },
+        {
+            "official_term": "ICELAND"
+        },
+        {
+            "official_term": "ILLINOIS, UNITED STATES",
+            "variations": [
+                "ILLINOIS, U.S.A."
+            ]
+        },
+        {
+            "official_term": "INDIA"
+        },
+        {
+            "official_term": "INDONESIA"
+        },
+        {
+            "official_term": "IOWA, UNITED STATES",
+            "variations": [
+                "IOWA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "IRAN"
+        },
+        {
+            "official_term": "IRAQ"
+        },
+        {
+            "official_term": "IRELAND"
+        },
+        {
+            "official_term": "ISLE OF MAN"
+        },
+        {
+            "official_term": "ISRAEL"
+        },
+        {
+            "official_term": "ITALY"
+        },
+        {
+            "official_term": "IVORY COAST",
+            "variations": [
+                "COTE D'IVOIRE"
+            ]
+        },
+        {
+            "official_term": "JAMAICA"
+        },
+        {
+            "official_term": "JAPAN"
+        },
+        {
+            "official_term": "JEBEL ALI FREE ZONE, UNITED ARAB EMIRATES",
+            "variations": [
+                "JEBEL ALI FREE ZONE"
+            ]
+        },
+        {
+            "official_term": "JERSEY"
+        },
+        {
+            "official_term": "JORDAN"
+        },
+        {
+            "official_term": "KANSAS, UNITED STATES",
+            "variations": [
+                "KANSAS, U.S.A."
+            ]
+        },
+        {
+            "official_term": "KAZAKHSTAN"
+        },
+        {
+            "official_term": "KENYA"
+        },
+        {
+            "official_term": "KIRIBATI"
+        },
+        {
+            "official_term": "KOSOVO"
+        },
+        {
+            "official_term": "KUWAIT"
+        },
+        {
+            "official_term": "KYRGYZSTAN"
+        },
+        {
+            "official_term": "LABUAN, MALAYSIA"
+        },
+        {
+            "official_term": "LAOS"
+        },
+        {
+            "official_term": "LATVIA"
+        },
+        {
+            "official_term": "LEBANON"
+        },
+        {
+            "official_term": "LESOTHO"
+        },
+        {
+            "official_term": "LIBERIA",
+            "variations": [
+                "THE REPUBLIC OF LIBE RIA"
+            ]
+        },
+        {
+            "official_term": "LIBYA"
+        },
+        {
+            "official_term": "LIECHTENSTEIN"
+        },
+        {
+            "official_term": "LITHUANIA"
+        },
+        {
+            "official_term": "LOUISIANA, UNITED STATES",
+            "variations": [
+                "LOUISIANA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "LUXEMBOURG"
+        },
+        {
+            "official_term": "MACAU",
+            "variations": [
+                "MACAO"
+            ]
+        },
+        {
+            "official_term": "MADAGASCAR"
+        },
+        {
+            "official_term": "MAINE, UNITED STATES",
+            "variations": [
+                "MAINE, U.S.A."
+            ]
+        },
+        {
+            "official_term": "MALAWI"
+        },
+        {
+            "official_term": "MALAYSIA",
+            "variations": [
+                "PENANG"
+            ]
+        },
+        {
+            "official_term": "MALDIVES"
+        },
+        {
+            "official_term": "MALI"
+        },
+        {
+            "official_term": "MALTA"
+        },
+        {
+            "official_term": "MARSHALL ISLANDS"
+        },
+        {
+            "official_term": "MARYLAND, UNITED STATES",
+            "variations": [
+                "MARYLAND, U.S.A."
+            ]
+        },
+        {
+            "official_term": "MASSACHUSETTS, UNITED STATES",
+            "variations": [
+                "MASSACHUSETTS, U.S.A."
+            ]
+        },
+        {
+            "official_term": "MAURITANIA"
+        },
+        {
+            "official_term": "MAURITIUS"
+        },
+        {
+            "official_term": "MEXICO"
+        },
+        {
+            "official_term": "MICHIGAN, UNITED STATES",
+            "variations": [
+                "MICHIGAN, U.S.A."
+            ]
+        },
+        {
+            "official_term": "MISSOURI, UNITED STATES",
+            "variations": [
+                "MISSOURI, U.S.A."
+            ]
+        },
+        {
+            "official_term": "MINNESOTA, UNITED STATES",
+            "variations": [
+                "MINNESOTA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "MOLDOVA"
+        },
+        {
+            "official_term": "MONACO"
+        },
+        {
+            "official_term": "MONGOLIA"
+        },
+        {
+            "official_term": "MONTENEGRO"
+        },
+        {
+            "official_term": "MONTSERRAT"
+        },
+        {
+            "official_term": "MOROCCO"
+        },
+        {
+            "official_term": "MOZAMBIQUE"
+        },
+        {
+            "official_term": "MYANMAR (BURMA)"
+        },
+        {
+            "official_term": "NAMIBIA"
+        },
+        {
+            "official_term": "NAURU"
+        },
+        {
+            "official_term": "NEPAL"
+        },
+        {
+            "official_term": "NETHERLANDS",
+            "variations": [
+                "BREDA"
+            ]
+        },
+        {
+            "official_term": "NEVADA, UNITED STATES",
+            "variations": [
+                "NEVADA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "NEW BRUNSWICK, CANADA"
+        },
+        {
+            "official_term": "NEW JERSEY, UNITED STATES",
+            "variations": [
+                "NEW JERSEY, U.S.A."
+            ]
+        },
+        {
+            "official_term": "NEW MEXICO, USA",
+            "variations": [
+                "NEW MEXICO, U.S.A."
+            ]
+        },
+        {
+            "official_term": "NEW YORK, UNITED STATES",
+            "variations": [
+                "NEW YORK, U.S.A."
+            ]
+        },
+        {
+            "official_term": "NEW ZEALAND"
+        },
+        {
+            "official_term": "NICARAGUA"
+        },
+        {
+            "official_term": "NIGER"
+        },
+        {
+            "official_term": "NIGERIA"
+        },
+        {
+            "official_term": "NIUE",
+            "variations": [
+                "NUIE",
+                "THE ISLAND OF NIUE"
+            ]
+        },
+        {
+            "official_term": "NORTH CAROLINA, UNITED STATES",
+            "variations": [
+                "NORTH CAROLINA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "NORTH KOREA"
+        },
+        {
+            "official_term": "NORTH MACEDONIA"
+        },
+        {
+            "official_term": "NORWAY"
+        },
+        {
+            "official_term": "NOVA SCOTIA, CANADA"
+        },
+        {
+            "official_term": "OHIO, UNITED STATES",
+            "variations": [
+                "OHIO, U.S.A."
+            ]
+        },
+        {
+            "official_term": "OKLAHOMA, UNITED STATES",
+            "variations": [
+                "OKLAHOMA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "OMAN"
+        },
+        {
+            "official_term": "ONTARIO, CANADA"
+        },
+        {
+            "official_term": "OREGON, UNITED STATES",
+            "variations": [
+                "OREGON, U.S.A."
+            ]
+        },
+        {
+            "official_term": "PAKISTAN"
+        },
+        {
+            "official_term": "PALAU"
+        },
+        {
+            "official_term": "PANAMA"
+        },
+        {
+            "official_term": "PAPUA NEW GUINEA"
+        },
+        {
+            "official_term": "PARAGUAY"
+        },
+        {
+            "official_term": "PENNSYLVANIA, USA",
+            "variations": [
+                "PENNSYLVANIA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "PERU"
+        },
+        {
+            "official_term": "PHILIPPINES"
+        },
+        {
+            "official_term": "POLAND"
+        },
+        {
+            "official_term": "PORTUGAL"
+        },
+        {
+            "official_term": "QATAR"
+        },
+        {
+            "official_term": "RAS AL KHAIMAH FREE TRADE ZONE"
+        },
+        {
+            "official_term": "RAS AL KHAIMAH, UNITED ARAB EMIRATES",
+            "variations": [
+                "RAS AL KHAIMAH"
+            ]
+        },
+        {
+            "official_term": "ROMANIA"
+        },
+        {
+            "official_term": "RUSSIA"
+        },
+        {
+            "official_term": "RWANDA"
+        },
+        {
+            "official_term": "SAMOA",
+            "variations": [
+                "WESTERN SAMOA",
+                "SAMAO"
+            ]
+        },
+        {
+            "official_term": "SAN MARINO"
+        },
+        {
+            "official_term": "SAO TOME AND PRINCIPE"
+        },
+        {
+            "official_term": "SAUDI ARABIA"
+        },
+        {
+            "official_term": "SENEGAL"
+        },
+        {
+            "official_term": "SERBIA"
+        },
+        {
+            "official_term": "SEYCHELLES"
+        },
+        {
+            "official_term": "SHARJAH, UNITED ARAB EMIRATES",
+            "variations": [
+                "SHARJAH"
+            ]
+        },
+        {
+            "official_term": "SIERRA LEONE"
+        },
+        {
+            "official_term": "SINGAPORE"
+        },
+        {
+            "official_term": "SLOVAKIA"
+        },
+        {
+            "official_term": "SLOVENIA"
+        },
+        {
+            "official_term": "SOLOMON ISLANDS"
+        },
+        {
+            "official_term": "SOMALIA"
+        },
+        {
+            "official_term": "SOUTH AFRICA"
+        },
+        {
+            "official_term": "SOUTH DAKOTA, UNITED STATES",
+            "variations": [
+                "SOUTH DAKOTA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "SOUTH KOREA",
+            "variations": [
+                "REPUBLIC OF KOREA",
+                "KOREA",
+                "THE REPUBLIC OF KOREA"
+            ]
+        },
+        {
+            "official_term": "SOUTH SUDAN"
+        },
+        {
+            "official_term": "SPAIN",
+            "variations": [
+                "TENERIFE"
+            ]
+        },
+        {
+            "official_term": "SRI LANKA"
+        },
+        {
+            "official_term": "ST KITTS AND NEVIS"
+        },
+        {
+            "official_term": "ST LUCIA"
+        },
+        {
+            "official_term": "ST VINCENT",
+            "variations": [
+                "ST VINCENT AND GRENADINES"
+            ]
+        },
+        {
+            "official_term": "SUDAN"
+        },
+        {
+            "official_term": "SURINAME"
+        },
+        {
+            "official_term": "SWEDEN"
+        },
+        {
+            "official_term": "SWITZERLAND"
+        },
+        {
+            "official_term": "SYRIA"
+        },
+        {
+            "official_term": "TAIWAN"
+        },
+        {
+            "official_term": "TAJIKISTAN"
+        },
+        {
+            "official_term": "TANZANIA",
+            "variations": [
+                "UNITED REPUBLIC OF TANZANIA"
+            ]
+        },
+        {
+            "official_term": "TEXAS, USA",
+            "variations": [
+                "TEXAS, U.S.A."
+            ]
+        },
+        {
+            "official_term": "THAILAND",
+            "variations": [
+                "CHONBURI"
+            ]
+        },
+        {
+            "official_term": "THE BAHAMAS",
+            "variations": [
+                "BAHAMAS"
+            ]
+        },
+        {
+            "official_term": "THE GAMBIA",
+            "variations": [
+                "GAMBIA"
+            ]
+        },
+        {
+            "official_term": "TOGO"
+        },
+        {
+            "official_term": "TONGA"
+        },
+        {
+            "official_term": "TRINIDAD AND TOBAGO"
+        },
+        {
+            "official_term": "TUNISIA"
+        },
+        {
+            "official_term": "TURKEY"
+        },
+        {
+            "official_term": "TURKISH REPUBLIC OF NORTHERN CYPRUS",
+            "variations": [
+                "NORTH CYPRUS"
+            ]
+        },
+        {
+            "official_term": "TURKMENISTAN"
+        },
+        {
+            "official_term": "TURKS AND CAICOS ISLANDS"
+        },
+        {
+            "official_term": "TUVALU"
+        },
+        {
+            "official_term": "UGANDA"
+        },
+        {
+            "official_term": "UKRAINE"
+        },
+        {
+            "official_term": "UNITED ARAB EMIRATES"
+        },
+        {
+            "official_term": "UNITED KINGDOM",
+            "variations": [
+                "UK"
+            ]
+        },
+        {
+            "official_term": "UNITED STATES",
+            "variations": [
+                "U.S.A."
+            ]
+        },
+        {
+            "official_term": "URUGUAY"
+        },
+        {
+            "official_term": "UTAH, UNITED STATES",
+            "variations": [
+                "UTAH, U.S.A."
+            ]
+        },
+        {
+            "official_term": "UZBEKISTAN"
+        },
+        {
+            "official_term": "VANUATU"
+        },
+        {
+            "official_term": "VATICAN CITY"
+        },
+        {
+            "official_term": "VENEZUELA"
+        },
+        {
+            "official_term": "VIETNAM"
+        },
+        {
+            "official_term": "VIRGINIA, UNITED STATES",
+            "variations": [
+                "VIRGINIA, U.S.A."
+            ]
+        },
+        {
+            "official_term": "WYOMING, UNITED STATES",
+            "variations": [
+                "WYOMING, U.S.A."
+            ]
+        },
+        {
+            "official_term": "WISCONSIN, UNITED STATES",
+            "variations": [
+                "WISCONSIN, U.S.A."
+            ]
+        },
+        {
+            "official_term": "WASHINGTON, UNITED STATES",
+            "variations": [
+                "WASHINGTON, U.S.A."
+            ]
+        },
+        {
+            "official_term": "YEMEN"
+        },
+        {
+            "official_term": "ZAMBIA"
+        },
+        {
+            "official_term": "ZIMBABWE"
+        }
+    ]
+}

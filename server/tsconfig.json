@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "target": "es2024",
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@companies/*": ["features/companies/*"],
+      "@titles/*": ["features/titles/*"],
+      "@/*": ["*"]
+    },
+    "types": ["node"]
+  },
+
+  "include": ["src/**/*"]
+}
