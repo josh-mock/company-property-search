@@ -24,7 +24,7 @@ def create_companies_df(df: DataFrame) -> DataFrame:
 def create_titles_companies_df(df: DataFrame, titles: DataFrame, companies: DataFrame) -> DataFrame:
     return (
         titles.join(df, on="title_number")
-        .join(companies, on="company_name")
+        .join(companies, on=["company_name", "company_jurisdiction"])
         .select(["title_id", "company_id"])
     )
 

@@ -40,5 +40,3 @@ sqlite3 "$DB_PATH" ".import --csv --skip 1 $TEMP_DIR/companies.csv companies"
 log::step "Importing join table..."
 sqlite3 "$DB_PATH" ".import --csv --skip 1 $TEMP_DIR/titles_companies.csv titles_companies"
 log::ok "Database loaded → $DB_PATH"
-
-log::done
