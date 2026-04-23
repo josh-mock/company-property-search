@@ -1,7 +1,7 @@
 import z from "zod";
 
 export const companySearchQuerySchema = z.object({
-  q: z.string().min(3),
+  q: z.string(),
   limit: z.coerce.number().int().min(1).max(100).default(10),
 });
 
