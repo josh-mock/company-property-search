@@ -36,3 +36,5 @@ CREATE INDEX idx_companies_company_name ON companies (company_name);
 CREATE INDEX idx_titles_companies_company_id ON titles_companies (company_id);
 
 CREATE INDEX idx_titles_companies_title_id ON titles_companies (title_id);
+
+CREATE INDEX idx_titles_address ON titles (title_address);

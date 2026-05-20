@@ -11,6 +11,7 @@
     "paths": {
       "@companies/*": ["features/companies/*"],
       "@titles/*": ["features/titles/*"],
+      "@addresses/*": ["features/addresses/*"],
       "@/*": ["*"]
     },
     "types": ["node"]

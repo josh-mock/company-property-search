@@ -1,5 +1,6 @@
 import { CompanySearch } from "@/features/companies/components/CompanySearch";
 import { TitleSearch } from "@/features/titles/components/TitleSearch";
+import { AddressSearch } from "@/features/addresses/components/AddressSearch";
 
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "./ui/tabs";
 
@@ -14,12 +15,18 @@ export const Search = () => {
           <TabsTrigger value="title" className="flex-1">
             Title Search
           </TabsTrigger>
+          <TabsTrigger value="address" className="flex-1">
+            Address Search
+          </TabsTrigger>
         </TabsList>
         <TabsContent value="company" className="mt-8">
           <CompanySearch />
         </TabsContent>
         <TabsContent value="title" className="mt-8">
           <TitleSearch />
+        </TabsContent>
+        <TabsContent value="address" className="mt-8">
+          <AddressSearch />
         </TabsContent>
       </Tabs>
     </div>

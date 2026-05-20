@@ -1,9 +1,9 @@
+import { titlesRepo } from "@titles/titles.repo.js";
+import { companiesRepo } from "./companies.repo.js";
 import type {
   GetCompaniesQuery,
   GetCompanyTitlesParams,
 } from "./companies.types.js";
-import { companiesRepo } from "./companies.repo.js";
-import { titlesRepo } from "@titles/titles.repo.js";
 
 const getCompanies = async (query: GetCompaniesQuery) => {
   const [companies, numberOfResults] = await Promise.all([
@@ -25,4 +25,7 @@ const getCompanyTitles = async (params: GetCompanyTitlesParams) => {
   return { company, titles };
 };
 
-export const companiesService = { getCompanies, getCompanyTitles };
+export const companiesService = {
+  getCompanies,
+  getCompanyTitles,
+};

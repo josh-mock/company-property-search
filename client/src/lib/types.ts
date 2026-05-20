@@ -10,8 +10,19 @@ export type Title = {
   titleAddress: string;
 };
 
+export type Address = {
+  titleId: number;
+  titleNumber: string;
+  titleAddress: string;
+};
+
 export type GetCompaniesResponse = {
   companies: Company[];
+  numberOfResults: number;
+};
+
+export type GetAddressesResponse = {
+  addresses: Address[];
   numberOfResults: number;
 };
 
